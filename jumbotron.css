@@ -1,0 +1,8 @@
+    .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-image: url(background.jpg);
+    border-radius: .3rem;/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}

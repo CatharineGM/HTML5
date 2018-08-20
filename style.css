@@ -1,0 +1,160 @@
+body {
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+  padding-top: 3.5rem;
+}
+
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+}
+
+.navigation  li.logo {
+  color: black;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 4px;
+}
+
+/*#banner {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-position: bottom center;
+  height: 500px;
+  width: 100%;
+}*/
+
+/*#banner .content h2 {
+  position: relative;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+  padding: 15px;
+  color: black;
+  } */
+/*#main {
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  width: 100%
+  overflow: scroll;
+} */
+
+h1 {
+  color: white;
+  font-size: 42px;
+  font-weight: 600;
+  text-align: center;
+}
+
+h2 {
+  border: 1px dotted blue;
+  color: red;
+  font-size: 14px;
+  line-height: 48px;
+  padding: px 30px;
+  text-align: center;
+  margin:10px 20px;
+}
+
+h3 {
+  color: red;
+  font-size: 26px;
+  font-weight: 700;
+  padding: 20px 10px;
+}
+
+p {
+  color: black;
+  font-size: 16px;
+  line-height: 48px;
+  margin-top: 60px;
+  padding: 10px 20px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.pull-quote {
+  margin: 0 auto;
+  width: 400px;
+}
+
+.byline {
+  border-bottom: 1px solid LightGrey;
+  border-top: 1px solid LightGrey;
+  color: DarkGrey;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.share {
+  border: 1px solid LightGrey;
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.share a {
+  background: red;
+  border: 1px solid red;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.share a:hover {
+  background: white;
+  border: 1px solid red;
+  color: red;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-image: url(background.jpg);
+    background-size: cover;
+    border-radius: .3rem;/* Move down content because we have a fixed navbar that is 3.5rem tall */
+}
+
+/*.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}*/
+
+/*.display-3 {
+    font-size: 4.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+} */
+.jumbotron p {
+	background-color: white;
+	opacity: 0.5;
+	font-size: 10px;
+	border-radius: 10px;
+	width: 400px;
+	margin: 0 auto;
+	padding: 1px;
+}
+.button{
+
+}
+.atividade:hover {
+  background: #4169E1;
+  border: 1px solid white;
+  color: white;
+  opacity: 0.5;
+}
